@@ -2,63 +2,21 @@ project:
   type: website
   output-dir: docs
 
-book:
-  title: "MTH 202 :: Calculus II"
-  subtitle: "Fall 2025"
-  
-  page-navigation: true
-  downloads: [pdf]
-  
-  navbar:
-    background: "#7A85C1"
-    search: true
-    right:
-      - href: general.qmd
-        text: General Course Info
-    downloads: [pdf]
-  
-  sidebar:
-    background: "#B2B0E8"
-    pinned: true
-    align: center
-
-    style: docked
-    search: true
-    collapse-level: 2
-
-  chapters:
-    - href: index.qmd
-      text: Welcome
-    - href: general.qmd
-      text: General Info
-    - href: support.qmd
-    - href: content.qmd
-      text: Course Content
-    - href: structure.qmd
-    - href: grades.qmd
-    - href: UPElements.qmd
-      text: University Policies
-
 website: 
-  title: "MTH 202 :: Calculus II"
-  
+  title: "MTH 202, Section C <br>Fall 2026"
+
   page-navigation: true
 
   navbar:
-    background: "#7A85C1"
     search: true
-    right:
-      - href: general.qmd
-        text: General Course Info
-    downloads: [pdf]
-  
+    
   sidebar:
-    background: "#B2B0E8"
+    title: false
     pinned: true
-    align: center
+    align: left
 
     style: docked
-    search: true
+    search: false
     collapse-level: 2
 
     contents:
@@ -83,9 +41,7 @@ website:
             target: _blank  
 format:
   html:
-    #theme: sandstone
-    theme: simplex
-    css: style/mth202.scss
+    theme: [litera, mth202.scss]
     toc: true
     number-sections: false
     highlight-style: monokai

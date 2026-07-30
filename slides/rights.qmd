@@ -1,0 +1,27 @@
+---
+format: 
+  revealjs
+auto-stretch: false
+---
+
+## Rights of Learners
+
+::: {.callout}
+[The right to be confused.]{style="color:red"}
+:::
+
+::: {.callout}
+[The right to say what makes sense to you.]{style="color:blue"}
+:::
+
+::: {.callout}
+[The right to make mistakes.]{style="color:green"}
+:::
+
+::: {.callout}
+[The right to share unfinished thinking and not be judged.]{style="color:purple"}
+:::
+
+::: {.callout}
+[The right to revise your thinking.]{style="color:orange"}
+:::

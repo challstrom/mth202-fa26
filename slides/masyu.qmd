@@ -11,3 +11,7 @@ auto-stretch: false
 -   The line thru a white circle must be straight. However, there must be at least one corner made on the dot immediately preceding or immediately following the white circle (or on both dots).
 
 -   The line going thru a black circle must turn a corner on the black circle. Both lines emanating from this corner must go straight through the next dot before making any turns.
+
+## 
+
+![](masyu.png){width="579"}

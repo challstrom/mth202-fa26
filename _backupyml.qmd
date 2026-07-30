@@ -1,0 +1,36 @@
+book:
+  title: "MTH 202 :: Calculus II"
+  subtitle: "Fall 2025"
+  
+  page-navigation: true
+  downloads: [pdf]
+  
+  navbar:
+    background: "#723EC3"
+    search: true
+    right:
+      - href: general.qmd
+        text: General Course Info
+    downloads: [pdf]
+  
+  sidebar:
+    background: "#FFCF95"
+    pinned: true
+    align: center
+
+    style: docked
+    search: true
+    collapse-level: 2
+
+  chapters:
+    - href: index.qmd
+      text: Welcome
+    - href: general.qmd
+      text: General Info
+    - href: support.qmd
+    - href: content.qmd
+      text: Course Content
+    - href: structure.qmd
+    - href: grades.qmd
+    - href: UPElements.qmd
+      text: University Policies

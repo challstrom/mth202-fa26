@@ -1,0 +1,114 @@
+/*-- scss:defaults --*/
+
+@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
+
+
+
+/*-- scss:defaults --*/
+$white:    #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #ddd !default;
+$gray-400: #ced4da !default;
+$gray-500: #adb5bd !default;
+$gray-600: #868e96 !default;
+$gray-700: #495057 !default;
+$gray-800: #343a40 !default;
+$gray-900: #212529 !default;
+$black:    #000 !default;
+
+// Plasma colors
+// viridisLite::viridis(7, option = "plasma", begin = 0, end = 0.9)
+
+// Viridis colors
+// viridisLite::viridis(6, option = "viridis", begin = 0, end = 1)
+$blue:   #0D0887 !default;  // Plasma[1]
+$indigo: #5601A4 !default;  // Plasma[2]
+$purple: #900DA4 !default;  // Plasma[3]
+$pink:   #BF3984 !default;  // Plasma[4]
+$red:    #E16462 !default;  // Plasma[5]
+$orange: #F89441 !default;  // Plasma[6]
+$yellow: #FCCE25 !default;  // Plasma[7]
+$green:  #7AD151 !default;  // Viridis[5]
+$teal:   #2A788E !default;  // Viridis[3]
+$cyan:   #22A884 !default;  // Viridis[4]
+
+$primary:       $blue !default;
+$secondary:     $gray-500 !default;
+$success:       $green !default;
+$info:          $pink !default;
+$warning:       $yellow !default;
+$danger:        $orange !default;
+$light:         $gray-100 !default;
+$dark:          $gray-800 !default;
+
+
+$font-size-base:              1.0rem !default;
+$headings-font-weight:        700 !default;
+
+$h1-font-size: $font-size-base * 2.35;
+$h2-font-size: $font-size-base * 1.8;
+$h3-font-size: $font-size-base * 1.2;
+$h4-font-size: $font-size-base * 1.1;
+$h5-font-size: $font-size-base * 1;
+$h6-font-size: $font-size-base * 0.8;
+
+$toc-font-size: 0.95rem;
+$sidebar-font-size: 1.1rem;
+$sidebar-font-size-section: 0.95rem;
+$footer-font-size: 0.95rem;
+
+
+// Inline code
+$code-bg: $gray-200 !default;
+$code-color: $gray-900 !default;
+
+// Block code
+$monokai-bg: #2e3440;
+
+
+
+
+/*-- scss:rules --*/
+
+.navbar-title {
+  font-size: 2rem;
+}
+
+h2 {
+  color: #2e3440;
+}
+
+h3 {
+  text-shadow: -1px -1px 0 rgba(0, 0, 0, .3);
+}
+
+ul,
+ol {
+  font-family: $font-family-serif;
+}
+
+
+// Slightly bigger callouts
+.callout.callout-style-default .callout-body,
+.callout.callout-style-default > div.callout-header {
+  font-size: 1.1rem;
+}
+
+.callout-icon-container {
+  padding-top: 0 !important;
+}
+
+
+.center {
+  text-align: center;
+}
+
+
+.infobox {
+  padding: 1em 1em 1em 1em;
+  margin-bottom: 10px;
+  border: 5px solid #1E1656;
+  border-radius: 10px;
+  background: #D9F9DF 5px center/3em no-repeat;
+}

@@ -5,14 +5,17 @@ format:
   html:
     toc: false
     number-sections: false
-    title-block-style: none
+    title-block-style: default 
+
 ---
 
-::: center
+::: {.center}
 # Welcome!
 :::
 
-This is the course website for my two sections of MTH 202 in Fall 2025. Here you can find information about course content, class policies, and resources to support your learning. This is meant to be a relatively static site, meaning it won't be updated during the semester. For day-to-day information about class activities or assignments, please check our [class Moodle page](https://learning.up.edu/course/view.php?id=44091).
+
+
+This is the course website for my two sections of Calculus II in Fall 2026. Here you can find information about course content, class policies, and resources to support your learning. This is meant to be a relatively static site, meaning it won't be updated during the semester. For day-to-day information about class activities or assignments, please check our [class Canvas page](https://portland.instructure.com/courses/2792).
 
 I am looking forward to working with each of you this semester and it is my top priority to support your growth as a learner and to make our time together, both in class and out, productive and engaging. My goal is to create a learning environment where you feel comfortable participating in class as well as coming to me with any questions or concerns that arise, mathematical and otherwise.
 

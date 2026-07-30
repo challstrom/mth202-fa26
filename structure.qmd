@@ -17,13 +17,13 @@ format:
 
 Since we will be doing much of our learning through collaborative in-class activities, it's important that you to come to class prepared and ready to engage. This means being on-time, completing preview activities prior to class, working productively on in-class activities, asking questions, and listening to and supporting your classmates.
 
-While I do expect you to be in class, I also recognize that life happens and occasionally things come up that might prevent you from being there. Unless it becomes a habit, there is no penalty to missing class apart from missing out on that day's activity. If you do miss class, I expect you to check the class Moodle page to see what we covered that day.
+While I do expect you to be in class, I also recognize that life happens and occasionally things come up that might prevent you from being there. Unless it becomes a habit, there is no penalty to missing class apart from missing out on that day's activity. If you do miss class, I expect you to check the class Canvas page to see what we covered that day and/or come see me with your questions.
 
 Finally, if you find yourself missing class more than a few times, you can expect that I will check with you to see how I can support your attendance better.
 
 ## Preview and In-Class Activities
 
-Every time we begin a new section (approximately every other class period), you will be asked to complete a short **Preview Activity** prior to class. These are designed to introduce and motivate new material. We will begin class by discussing these activities, so it's important that you come to class having completed it before hand.
+Every time we begin a new section from the book (approximately every other class period), you will be asked to complete and turn in a short **Preview Activity** prior to class. These are designed to introduce and motivate new material. We will begin class by discussing these activities, so it's important that you come to class having completed it before hand.
 
 Much of our in-class time will then be spent working in small groups on additional activities designed to build up our understanding. While I won't generally collect these, I may from time-to-time just to help me monitor class progress and student engagement.
 
@@ -31,18 +31,17 @@ Note that preview activities may not be made up. They are designed to support ou
 
 ## Homework and WebWork
 
-To assist you in building your understanding with the course material and in practicing new skills, I will assign short daily homework (typically 2-3 problems from the book). Generally, we will go over these problems in our groups once per week.
+To assist you in building your understanding with the course material and in practicing new skills, I will assign short weekly homework sets. We will set aside some time in class, generally on Thursdays, to go over these problems in our groups.
 
-In addition, you have access to an online homework system to give you additional practice as needed. This homework will not be graded for correctness - but completion can be used as evidence of engagement.
+In addition, you have access to an online homework system  - called WebWork - to give you additional practice as needed. This homework will not be graded for correctness - but completion can be used as evidence of engagement.
 
 ## Weekly Engagement Report
 
 Every week, I will ask you to complete a short one-page reflection summarizing your engagement with the course for that week. Your report should include the following information:
 
 -   Did you complete the Preview Activites and the assigned homework problems this week? Did you find them helpful?
--   What questions came up for you while doing these problems or doing the class activities? How did you resolve these questions? What questions do you still have?
+-   What questions came up for you while doing these problems or doing the class activities? Did you get stuck on any particular problems and if so, how did you resolve these questions? What questions do you still have?
 -   What is one thing from this week that you feel you have a good understanding of?
--   How did this week's check-in go?
 
 ## Application and Extension Problems (AEP)
 

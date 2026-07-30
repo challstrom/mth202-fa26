@@ -2,38 +2,16 @@
 
 @import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
 
-$font-family: "Atkinson Hyperlegible", sans-serif;
 $link-color: #5d6d74;
 $hover-color: lighten($link-color, 40%);
 
 /*-- scss:defaults --*/
 
-// Viridis colors
-// viridisLite::viridis(6, option = "viridis", begin = 0, end = 1)
-$blue:   #0D0887 !default;  // Plasma[1]
-$indigo: #5601A4 !default;  // Plasma[2]
-$purple: #900DA4 !default;  // Plasma[3]
-$pink:   #BF3984 !default;  // Plasma[4]
-$red:    #E16462 !default;  // Plasma[5]
-$orange: #F89441 !default;  // Plasma[6]
-$yellow: #FCCE25 !default;  // Plasma[7]
-$green:  #7AD151 !default;  // Viridis[5]
-$teal:   #2A788E !default;  // Viridis[3]
-$cyan:   #22A884 !default;  // Viridis[4]
-
-$primary:       $red !default;
-$secondary:     $gray-500 !default;
-$success:       $green !default;
-$info:          $pink !default;
-$warning:       $yellow !default;
-$danger:        $orange !default;
-$light:         $gray-100 !default;
-$dark:          $gray-800 !default;
-
-
-$font-size-base:              1.0rem !default;
+$font-size-base:              2.5rem !default;
 $headings-font-weight:        700 !default;
+$h2-font-size:                $font-size-base * 2 !default;
 $h3-font-size: 1.2rem !default;
+
 
 $toc-font-size: 0.95rem;
 $sidebar-font-size: 1.1rem;
@@ -43,18 +21,18 @@ $footer-font-size: 0.95rem;
 $link-color: $red;
 $link-hover-color: $yellow;
 
-// Inline code
-$code-bg: $gray-200 !default;
-$code-color: $gray-900 !default;
+$body-color:                $gray-900 !default;
+$body-bg:                   $white !default;
 
 // Block code
 $monokai-bg: #2e3440;
 
-$background: #F3F3E0;
+$background: #D9F9DF;
 
+$navbar-padding-y:                  $spacer * 0.5 !default;
+$navbar-padding-x:                  null !default;
 
-
-
+$navbar-brand-font-size:            $font-size-lg !default;
 /*-- scss:rules --*/
 
 }
@@ -98,5 +76,5 @@ ol {
   margin-bottom: 10px;
   border: 5px solid #1E1656;
   border-radius: 10px;
-  background: #f0effb 5px center/3em no-repeat;
+  background: #D9F9DF 5px center/3em no-repeat;
 }

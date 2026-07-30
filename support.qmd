@@ -20,8 +20,8 @@ I have set aside the times listed below during which I am available for drop-in 
 -   Mon, Wed 9:30 - 11
 -   Tuesday 1-3 (starting 9/2)
 
-::: {.callout-note icon="false" appearance="simple"}
-Note -- I'm writing this the week before classes begin. If my schedule changes for some reason, I may need to adjust these times. If that happens, I will let you know!
+::: {.callout-note}
+I'm writing this the week before classes begin. If my schedule changes for some reason, I may need to adjust these times. If that happens, I will let you know!
 :::
 
 ## Sign-Up Hours
