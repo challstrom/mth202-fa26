@@ -25,6 +25,9 @@ This semester, I am teaching two sections of MTH 202. It's helpful, especially e
 ::: {.column width="65%"}
 Chris Hallstrom, PhD <br> (he/him)
 
+Hi! I'll be your instructor this semester and I'm looking forward to working with all of you.  This is my 23rd year at UP and Calculus is one of my favorite classes to teach -- my specialty is applied math (I was a physics major in college) and I love the mix of applications and abstract mathematics that comes up in this class.  When I'm not doing math, I enjoy playing basketball, making wine, and watching musical theatre with my family.
+
+
 Students sometimes ask how they should address me. While I won't be offended if you use my first name, I know that many students aren't comfortable doing so. I also recognize that I have some amount of privilege in this regard and that many of my colleagues would find it disrespecful or presumptuous to use first names. In solidarity with them I'd suggest that you call me "Dr. Hallstrom" or "Prof. Hallstrom".
 
 -   ["My First Name"](https://docs.google.com/document/d/1bGDW6BChhG-DvPlli__AoJJQUf0TfFrL9tFEJNgTvvs/edit?usp=sharing) by Susan Harlan, *The South Carolina Review*, 2017 (49.2)
@@ -40,18 +43,16 @@ Students sometimes ask how they should address me. While I won't be offended if 
 :::
 :::
 
-### Office
-
-My office is located in Buckley Center 270 -- on the second floor of the NW wing (my window overlooks the main quad). While I do have specific times set aside for [drop-in hours](support.qmd#drop-in-hours), you are always welcome to stop by at anytime!
-
-
 ### Contact Information
 
-Apart from stopping by my office, email is a good way to communicate with me. If you send me email after 5pm, however, there's a good chance that I will not see it until the following morning. Similarly, I don't check my email regularly on weekends so you might not get a reply until Monday. I will do my best to respond as soon as I am able, but if you haven't heard back from me in a timely manner - please feel free to follow-up!
+- Office: Buckley Center 270 -- on the second floor of the NW wing (my window overlooks the main quad). While I do have specific times set aside for [drop-in hours](support.qmd#drop-in-hours), you are always welcome to stop by at anytime!
+- Office Phone: (503) 943-7165
+- Email: [hallstro\@up.edu](mailto: hallstro@up.edu)
 
 [hallstro\@up.edu](mailto:hallstro@up.edu){.btn .btn-primary}
 
-You can also reach me via my office phone: 503-943-7165.
+
+Apart from stopping by my office, email is a good way to communicate with me. If you send me email after 5pm, however, there's a good chance that I will not see it until the following morning. Similarly, I don't check my email regularly on weekends so you might not get a reply until Monday. I will do my best to respond as soon as I am able, but if you haven't heard back from me in a timely manner - please feel free to follow-up!
 
 
 ## Course Materials

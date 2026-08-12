@@ -13,12 +13,11 @@ format:
 # Welcome!
 :::
 
-Try this again!
 
-This is the course website for my two sections of Calculus II in Fall 2026. Here you can find information about course content, class policies, and resources to support your learning. This is meant to be a relatively static site, meaning it won't be updated during the semester. For day-to-day information about class activities or assignments, please check our [class Canvas page](https://portland.instructure.com/courses/2792).
+This is the course website for my two sections of Calculus II in Fall 2026. Here you can find information about course content, class policies, and resources to support your learning. This is meant to be a relatively static site, meaning it won't be updated regularly during the semester. For day-to-day information about class activities or assignments, please check our [class Canvas page](https://portland.instructure.com/courses/2792).
 
 I am looking forward to working with each of you this semester and it is my top priority to support your growth as a learner and to make our time together, both in class and out, productive and engaging. My goal is to create a learning environment where you feel comfortable participating in class as well as coming to me with any questions or concerns that arise, mathematical and otherwise.
 
 While I'll do everything in my power to support you, your success in this course ultimately depends on you. I ask you to bring a readiness to work and a belief that you can learn. **I absolutely believe this about each of you.** I will ask you to do tasks that are just at the edge of what you can handle because that is how the best learning happens, but if you are prepared to invest your time and energy, and to communicate with me about how you're doing, I can and will support you.
 
-We will strive in this class to create an environment that values our different perspectives and celebrates the contributions of every person. I promise to be respectful of you and your ideas. No matter your background or identity, you are welcome in this classroom. **You belong here!**
+We will strive in this class to create an environment that values our different perspectives and celebrates the contributions of every person. I promise to be respectful of you and your ideas. No matter your background, you are welcome in this classroom. **You belong here!**

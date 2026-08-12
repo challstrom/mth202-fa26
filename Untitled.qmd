@@ -1,0 +1,13 @@
+---
+title: "Worksheet"
+format: 
+  html:
+    toc: false
+    sidebar: false
+---
+
+## This is a test of getting a checkbox list working in Canvas
+
+- [ ] Item one
+- [ ] Item two
+- [ ] Item three

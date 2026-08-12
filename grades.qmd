@@ -70,9 +70,11 @@ Here are some ways that you can engage with the class:
 
 A grade modifier may be added to your base grade as follows.
 
-A + modifier can be added to your grade if you have met the standards stated above **and** you have engaged in the course in particularly significant ways.
+plus (+)   
+: this modifier can be added to your grade if you have met the standards stated above **and** you have engaged in the course in particularly significant ways.
 
-A - modifier may be added to the base grade if you have met the standards for a particular grade, but lack of engagement has prevented you from doing more in the course.
+minus (-)  
+: this modifier may be added to the base grade if you have met the standards for a particular grade, but lack of engagement has prevented you from doing more in the course. Alternatively, this modifier could indicate that you have met **almost** all of the standards for a lower grade **and** you have engaged in the course in a meaningful way.
 
 ## Collaborative Grading {.unnumbered}
 

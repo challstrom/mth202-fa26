@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 website: 
-  title: "MTH 202, Section C <br>Fall 2026"
+  title: "Calculus II <br>MTH202 :: Fall 2026"
 
   page-navigation: true
 
   navbar:
     search: true
-    
+
   sidebar:
     title: false
     pinned: true
@@ -49,10 +49,9 @@ format:
     link-external-newwindow: true
 
   pdf:
-    documentclass: memoir
     margin-left: 30mm
     margin-right: 30mm
-    toc: true
+    toc: false
     number-sections: true
     colorlinks: true
     pdf-engine: pdflatex

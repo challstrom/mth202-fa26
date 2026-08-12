@@ -29,13 +29,15 @@ Much of our in-class time will then be spent working in small groups on addition
 
 Note that preview activities may not be made up. They are designed to support our day-to-day work, so if you miss class they no longer serve that purpose.
 
-## Homework and WebWork
+## Homework
 
 To assist you in building your understanding with the course material and in practicing new skills, I will assign short weekly homework sets. We will set aside some time in class, generally on Thursdays, to go over these problems in our groups.
 
-In addition, you have access to an online homework system  - called WebWork - to give you additional practice as needed. This homework will not be graded for correctness - but completion can be used as evidence of engagement.
+### WebWork
 
-## Weekly Engagement Report
+In addition, you have access to an online homework system - called WebWork - to give you additional practice as needed. This homework will not be graded for correctness - but completion can be used as evidence of engagement.
+
+### Weekly Engagement Report
 
 Every week, I will ask you to complete a short one-page reflection summarizing your engagement with the course for that week. Your report should include the following information:
 
@@ -53,7 +55,7 @@ In addition to giving you an opportunity to extend your engagement with the math
 
 Just like in the "real world", due dates in this class exist and are important. They help all of us plan our lives and stay organized. That said, there is usually a certain amount of flexibility and so if something comes up that's going to make it difficult (or impossible) to complete an assignment on time, just let me know. Simply send me an email letting me know when you expect to get the assignment to me.
 
--   If you need to ask for an extension, please let me know asap (or better yet, ahead of time). Requests for extensions made after a due date has passed will generally not be honored.
+-   If you need to ask for an extension, please let me know in a timely manner (preferably before the due date). Requests for extensions made after a due date has passed will generally not be honored.
 -   If you ask for an extension, you should plan on handing in work within one week of the due date.
 -   You do not need to give me a reason for your extension request. I trust that if you are asking for an extension then you have a reason.\
 -   There is no penalty for late work except that you might not get timely feedback on your work. This could potentially be an issue with AEP assignments which can be revised and resubmitted.

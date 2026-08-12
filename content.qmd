@@ -55,7 +55,7 @@ The bulk of the course content is represented by the following specific topics w
 
 **T3.** I can use the Taylor series of one or more familiar functions to find the Taylor series for a related function.
 
-## Mathematical Practice
+### Mathematical Practice
 
 In addition to specific Calculus topics, we will also develop more general aspects of your mathematical practice including
 
