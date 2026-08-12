@@ -596,7 +596,11 @@
     "href": "slides/rights.html#rights-of-learners",
     "title": "Calculus II <br>MTH202 :: Fall 2026",
     "section": "Rights of Learners",
-    "text": "Rights of Learners\nAs a student in this class, you have the right…\n\n\n\nto be confused.\n\n\n\n\n\n\nto say what makes sense to you.\n\n\n\n\n\n\nto make mistakes.\n\n\n\n\n\n\nto share unfinished thinking and not be judged.\n\n\n\n\n\n\nto revise your thinking."
+    "text": "Rights of Learners\nAs a student in this class, you have the right…\n\n\n\nto be confused.\n\n\n\n\n\n\nto say what makes sense to you.\n\n\n\n\n\n\nto make mistakes.\n\n\n\n\n\n\nto share unfinished thinking and not be judged.\n\n\n\n\n\n\nto revise your thinking.",
+    "crumbs": [
+      "Slides",
+      "Rights of Learners"
+    ]
   },
   {
     "objectID": "general.html#class-schedule",
@@ -638,5 +642,68 @@
     "crumbs": [
       "Class Structure"
     ]
+  },
+  {
+    "objectID": "slides/Week_01/review.html#mth-202-review",
+    "href": "slides/Week_01/review.html#mth-202-review",
+    "title": "Calculus II <br>MTH202 :: Fall 2026",
+    "section": "MTH 202 Review",
+    "text": "MTH 202 Review\nWhat questions did you have?"
+  },
+  {
+    "objectID": "slides/Week_01/review.html#specific-questions",
+    "href": "slides/Week_01/review.html#specific-questions",
+    "title": "Calculus II <br>MTH202 :: Fall 2026",
+    "section": "Specific Questions",
+    "text": "Specific Questions\n\nHow does the chain rule work?\nHow does the quotient rule work?\nHow do you find a tangent line?\nWhat is a Riemann sum?\n\nor more generally, how do you do #4?\n\nIs this algebra move valid?"
+  },
+  {
+    "objectID": "slides/Week_01/review.html#general-questions",
+    "href": "slides/Week_01/review.html#general-questions",
+    "title": "Calculus II <br>MTH202 :: Fall 2026",
+    "section": "General Questions",
+    "text": "General Questions\n\nHow do you do #1c?\nHow do you do integrals / integration problems?\nHow you remember Calc I formulas?\nHow should I review this stuff??"
+  },
+  {
+    "objectID": "slides/Week_01/review.html#what-should-i-remember-from-calc-i",
+    "href": "slides/Week_01/review.html#what-should-i-remember-from-calc-i",
+    "title": "Calculus II <br>MTH202 :: Fall 2026",
+    "section": "What should I remember from Calc I?",
+    "text": "What should I remember from Calc I?\nIn general, I’m not a fan of memorization. But…\n\nthere are basic facts that come up often enough that you should probably know them without looking up"
+  },
+  {
+    "objectID": "slides/Week_01/review.html#derivatives",
+    "href": "slides/Week_01/review.html#derivatives",
+    "title": "Calculus II <br>MTH202 :: Fall 2026",
+    "section": "Derivatives",
+    "text": "Derivatives\n\nDerivatives of basic functions like \\(x^n\\), \\(e^x\\), \\(\\sin(x)\\), etc.\nProduct, quotient, chain rules\nDerivatives are slopes of tangent lines\nDerivatives are rates of change\n\n(this list is not exhaustive)"
+  },
+  {
+    "objectID": "slides/Week_01/review.html#integrals-and-antiderivatives",
+    "href": "slides/Week_01/review.html#integrals-and-antiderivatives",
+    "title": "Calculus II <br>MTH202 :: Fall 2026",
+    "section": "Integrals and Antiderivatives",
+    "text": "Integrals and Antiderivatives\n\\[\n\\int x^2 \\, dx\n\\]\n\nThis is an indefinite integral aka an anti-derivative:\nFind the function(s) whose derivative is \\(x^2\\)\n\n\n\\[\n\\frac{1}{3} x^3 + C\n\\]"
+  },
+  {
+    "objectID": "slides/Week_01/review.html#example-2",
+    "href": "slides/Week_01/review.html#example-2",
+    "title": "Calculus II <br>MTH202 :: Fall 2026",
+    "section": "Example 2",
+    "text": "Example 2\n\\[\n\\int_{-1}^3 x^2 \\, dx\n\\]\n\n\n\nThis is a definite integral. Can represent area under a graph."
+  },
+  {
+    "objectID": "slides/Week_01/review.html#fundamental-theorem-of-calculus-the-second-one",
+    "href": "slides/Week_01/review.html#fundamental-theorem-of-calculus-the-second-one",
+    "title": "Calculus II <br>MTH202 :: Fall 2026",
+    "section": "Fundamental Theorem of Calculus (the second one)",
+    "text": "Fundamental Theorem of Calculus (the second one)\n\\[\n\\int_a^b f(x) \\, dx = F(b) - F(a)\n\\] where \\(F(x)\\) is an antiderivative of \\(f(x)\\)\n\nSo…\n\\[\n\\int_{-1}^3 x^2 \\, dx = \\frac{1}{3} x^3 \\, \\Bigg \\rvert_{-1}^3 = \\frac{1}{3}27 - \\frac{1}{3}(-1) = \\frac{28}{3}\n\\]"
+  },
+  {
+    "objectID": "slides/Week_01/review.html#takeaways",
+    "href": "slides/Week_01/review.html#takeaways",
+    "title": "Calculus II <br>MTH202 :: Fall 2026",
+    "section": "Takeaways",
+    "text": "Takeaways\n\nShould know basic derivatives and differentiation rules\nBe prepared to look up Calc I facts that you don’t know\n\nChapter 1-4 of our book\nGVSU MTH201 youtube channel\nGVSU MTH202 youtube channel\nPaul’s online notes\nMath Resource Center (MRC)\nYour friendly neighborhood instructor (that’s me!)"
   }
 ]

@@ -67,15 +67,15 @@ $$
 
 . . .
 
-::: columns
+::::: columns
 ::: {.column width="50%"}
 This is a **definite** integral. Can represent area under a graph.
 :::
 
 ::: {.column width="50%"}
-![](./area.png){.absolute right="0" width="400"}
+![](../area.png){.absolute right="0" width="400"}
 :::
-:::
+:::::
 
 ## Fundamental Theorem of Calculus (the second one)
 
