@@ -14,25 +14,22 @@ This semester, I am teaching two sections of MTH 202. It's helpful, especially e
 
 -   **Section A**
     -   MWThF 8:10-9:35, DB 233
-    
 -   **Section B**
     -   MWF 11:25-12:20, DB 136
     -   Th 11:20-12:15, DB 230 (note that we are in a different classroom on Thursdays!)
 
 ## Instructor
 
-::: columns
+:::::: columns
 ::: {.column width="65%"}
 Chris Hallstrom, PhD <br> (he/him)
 
-Hi! I'll be your instructor this semester and I'm looking forward to working with all of you.  This is my 23rd year at UP and Calculus is one of my favorite classes to teach -- my specialty is applied math (I was a physics major in college) and I love the mix of applications and abstract mathematics that comes up in this class.  When I'm not doing math, I enjoy playing basketball, making wine, and watching musical theatre with my family.
-
+Hi! I'll be your instructor this semester and I'm looking forward to working with all of you. This is my 23rd year at UP and Calculus is one of my favorite classes to teach -- my specialty is applied math (I was a physics major in college) and I love the mix of applications and abstract mathematics that comes up in this class. When I'm not doing math, I enjoy playing basketball, making wine, and watching musical theatre with my family.
 
 Students sometimes ask how they should address me. While I won't be offended if you use my first name, I know that many students aren't comfortable doing so. I also recognize that I have some amount of privilege in this regard and that many of my colleagues would find it disrespecful or presumptuous to use first names. In solidarity with them I'd suggest that you call me "Dr. Hallstrom" or "Prof. Hallstrom".
 
 -   ["My First Name"](https://docs.google.com/document/d/1bGDW6BChhG-DvPlli__AoJJQUf0TfFrL9tFEJNgTvvs/edit?usp=sharing) by Susan Harlan, *The South Carolina Review*, 2017 (49.2)
 -   ["Tenure, She Wrote"](https://tenureshewrote.wordpress.com/2014/03/11/feel-ree-to-call-me-dr/)
-
 :::
 
 ::: {.column width="5%"}
@@ -41,19 +38,17 @@ Students sometimes ask how they should address me. While I won't be offended if 
 ::: {.column width="30%"}
 ![](images/cch_raingear.png)
 :::
-:::
+::::::
 
 ### Contact Information
 
-- Office: Buckley Center 270 -- on the second floor of the NW wing (my window overlooks the main quad). While I do have specific times set aside for [drop-in hours](support.qmd#drop-in-hours), you are always welcome to stop by at anytime!
-- Office Phone: (503) 943-7165
-- Email: [hallstro\@up.edu](mailto: hallstro@up.edu)
+-   Office: Buckley Center 270 -- on the second floor of the NW wing (my window overlooks the main quad). While I do have specific times set aside for [drop-in hours](support.qmd#drop-in-hours), you are always welcome to stop by at anytime!
+-   Office Phone: (503) 943-7165
+-   Email: [hallstro\@up.edu](mailto:%20hallstro@up.edu)
 
 [hallstro\@up.edu](mailto:hallstro@up.edu){.btn .btn-primary}
 
-
 Apart from stopping by my office, email is a good way to communicate with me. If you send me email after 5pm, however, there's a good chance that I will not see it until the following morning. Similarly, I don't check my email regularly on weekends so you might not get a reply until Monday. I will do my best to respond as soon as I am able, but if you haven't heard back from me in a timely manner - please feel free to follow-up!
-
 
 ## Course Materials
 
@@ -61,14 +56,13 @@ Apart from stopping by my office, email is a good way to communicate with me. If
 
 We will be using the open source textbook [Active Caclulus Single Variable, 2nd Edition](https://activecalculus.org/acs2e/) by Matthew Boelkins, et al. 2025. This is a free, open-source text available in both online (HTML) and PDF versions:
 
-
 [Online Version](https://activecalculus.org/single2e/frontmatter.html){.btn .btn-info}
 
 [PDF Version](https://activecalculus.org/wp-content/uploads/2025/08/acs2e-8-7-25.pdf){.btn .btn-info}
 
-I highly recommend that you use the online version as it will give you access to interactive problems embedded in the text. Note that this text covers both Calc I and Calc II material -- we will focus on Chapters 5-8.  I also suggest downloading the pdf version just in case you need to access the text but don't have internet access.
+I highly recommend that you use the online version as it will give you access to interactive problems embedded in the text. Note that this text covers both Calc I and Calc II material -- we will focus on Chapters 5-8. I also suggest downloading the pdf version just in case you need to access the text but don't have internet access.
 
-If you really want your own print version, you can purchase that [here](https://www.619wreath.com/store/p45/active-calculus-second-edition.html) for \$38 which covers the cost of printing.  This is certainly not necessary however.
+If you really want your own print version, you can purchase that [here](https://www.619wreath.com/store/p45/active-calculus-second-edition.html) for \$38 which covers the cost of printing. This is certainly not necessary however.
 
 ### Workbook and Other Materials
 
@@ -82,7 +76,7 @@ Any additional handouts or course materials will be posted on our class Canvas p
 
 ### Technology
 
-In order to access course materials, I expect that you has access to some kind of device -- a desktop computer, laptop, or tablet.  We will also make use of the online graphing tool [Desmos](https://www.desmos.com/calculator) so if you don't already have a free Desmos account, I recommend that you sign up for one. It's not absolutely necessary, but it does allow you to save your work, which is nice. In class, we will often be working in small groups so it's not necessary for everyone to bring a device to class, but you'll want to be able to use it outside of class. Note that if you already have a graphing calculator, you may find that useful, but my experience is that Desmos is the better tool for our needs.
+In order to access course materials, I expect that you has access to some kind of device -- a desktop computer, laptop, or tablet. We will also make use of the online graphing tool [Desmos](https://www.desmos.com/calculator) so if you don't already have a free Desmos account, I recommend that you sign up for one. It's not absolutely necessary, but it does allow you to save your work, which is nice. In class, we will often be working in small groups so it's not necessary for everyone to bring a device to class, but you'll want to be able to use it outside of class. Note that if you already have a graphing calculator, you may find that useful, but my experience is that Desmos is the better tool for our needs.
 
 From time to time, we may also make use of online tools such as Wolfram Alpha for certain calculations. We will discuss in class when such tools are approprate. Note that GenAI tools such as ChatGPT are **not** appropriate for doing mathematics. Again, we will discuss why this is throughout the semester.
 
@@ -98,17 +92,15 @@ In addition to work you turn in I strongly suggest, for the reasons articulated 
 These AI policies apply only to this course. For your other courses, please follow those professors' AI policies, which may differ from mine.
 :::
 
-
-::: columns
+:::::: columns
 ::: {.column width="45%"}
-Generative AI tools such as ChatGPT work by predicting what words will form coherent sentences in the context of the prompt you've given it, essentially ["autocomplete in overdrive"](https://thebullshitmachines.com/lesson-1-autocomplete-in-overdrive/index.html). This means that Gen AI tools are **designed** to produce output that **sounds convincing** without any regard to whether its output is **actually correct**.  The technical term for this is [bullshit](https://thebullshitmachines.com/lesson-2-the-nature-of-bullshit/index.html) 
+Generative AI tools such as ChatGPT work by predicting what words will form coherent sentences in the context of the prompt you've given it, essentially ["autocomplete in overdrive"](https://thebullshitmachines.com/lesson-1-autocomplete-in-overdrive/index.html). This means that Gen AI tools are **designed** to produce output that **sounds convincing** without any regard to whether its output is **actually correct**. The technical term for this is [bullshit](https://thebullshitmachines.com/lesson-2-the-nature-of-bullshit/index.html)
 
 This also means that they **are not actually doing any mathematics.** If ChatGPT can do a calculus problem its because it was trained on thousands of calculus textbooks (without the author's permission). It also means that there's absolutely no promise that any answers you get from generative AI are correct.
 
 I sometimes hear students say that they use AI as a "study aid" to do things like help explain concepts, to summarize content, or to check their work.
 
-Here's the thing -- those are all activities that are fundamental to the process of learning!  Struggling to build your own understanding - to make sense of difficult concepts - is the whole point. If you use Gen AI to do these tasks, you are giving up opportunities to learn. Don't undermine your growth as a human learner by looking for shortcuts!
-
+Here's the thing -- those are all activities that are fundamental to the process of learning! Struggling to build your own understanding - to make sense of difficult concepts - is the whole point. If you use Gen AI to do these tasks, you are giving up opportunities to learn. Don't undermine your growth as a human learner by looking for shortcuts!
 :::
 
 ::: {.column width="5%"}
@@ -117,7 +109,7 @@ Here's the thing -- those are all activities that are fundamental to the process
 ::: {.column width="50%"}
 ![](./images/sousanis.jpg)
 :::
-:::
+::::::
 
 Fundamentally, I believe that the use of AI tools in this class ultimately gets in the way of authentic learning.
 
@@ -127,18 +119,17 @@ Beyond their use in this class, there are many other reasons why you might be cr
 
 ## Collaboration
 
-Unless otherwise instructed, I encourage you to work together with classmates on homework or other assignments although any work that you hand in should be your own.  You should also acknowledge your collaborators. Unless otherwise instructed, all check-ins should be done individually.
+Unless otherwise instructed, I encourage you to work together with classmates on homework or other assignments although any work that you hand in should be your own. You should also acknowledge your collaborators. Unless otherwise instructed, all check-ins should be done individually.
 
 ## Late work & extensions {#sec-late-work-extensions}
 
-Due dates for assignments are there to give you structure and to help you keep up with the course material (think of them as "best by" dates). They also help me stay organized and caught up with student work.  That said, I understand that things come up periodically that can make it difficult to complete an assignment by the deadline. Life happens!
+Due dates for assignments are there to give you structure and to help you keep up with the course material (think of them as "best by" dates). They also help me stay organized and caught up with student work. That said, I understand that things come up periodically that can make it difficult to complete an assignment by the deadline. Life happens!
 
-If something comes up that prevents you from completing an assignment by the posted due date, just let me know, preferably via email. You do not need to provide an explanation. In general, I will expect to receive your work within **one week**.  There is no penalty to late work other than a missed opportunity to get timely feedback.
+If something comes up that prevents you from completing an assignment by the posted due date, just let me know, preferably via email. You do not need to provide an explanation. In general, I will expect to receive your work within **one week**. There is no penalty to late work other than a missed opportunity to get timely feedback.
 
 There are, however, two **hard deadlines** to be aware of: Oct. 9th (Friday before Fall break) and Dec. 4th (last day of classes). Except in unusual circumstances or by prior arrangement, I will not accept work after those dates.
 
 Finally, note that since the purpose of the Preview Activities is to prepare you for that day's class, these may not be handed in late.
-
 
 ## Important dates {#sec-important-dates}
 
