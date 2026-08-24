@@ -1,0 +1,90 @@
+---
+title: "Calculus II"
+subtitle: "MTH202, Fall 2026"
+
+auto-stretch: false
+title-slide-attributes:
+  data-background-size: contain
+  data-background-opacity: "0.3"
+
+format: revealjs
+---
+
+## Welcome!
+
+::::::: columns
+::::: {.column width="60%"}
+::: pinkbox
+Section A
+
+-   MWThF 8:10 - 9:05, DB 233
+:::
+
+::: lavenderbox
+Section B
+
+-   MWF 11:25-12:20, DB 136\
+    Th 11:20-12:15, DB 230\ 
+    (note different room!)
+:::
+:::::
+
+::: {.column width="40%"}
+![](../images/dancing_penguins.png){width="95%" fig-align="center"}
+:::
+:::::::
+
+## Your professor
+
+:::::: columns
+::: {.column width="60%"}
+Chris Hallstrom, PhD <br>( he / him)
+
+-   [hallstro\@up.edu](mailto:hallstro@up.edu)
+-   Buckley Center 270
+-   Drop-in hours
+    -   MW 9:30-10:30
+    -   TR 1-2:30
+-   [calendly.com/hallstro](https://calendly.com/hallstro)
+-   stop by anytime!
+:::
+
+:::: {.column width="40%"}
+![](../images/cch_raingear.png){width="75%" fig-alt="Headshot of Chris Hallstrom" fig-align="left"}
+
+::: small
+I'm originally from Salem, Oregon
+
+3 kids (ages 17-21)
+
+I play basketball & make wine
+:::
+::::
+::::::
+
+## In groups of 3-4...
+
+-   What do you like to be called?
+-   Where do you consider home?
+-   What is something you like doing in your free time?
+-   Find one *uncommon* thing that you all have in common.
+
+::: blue
+Be prepared to introduce someone else from your group to the class.
+
+Choose a **Representative** who will share your group's uncommon commonality with the class
+:::
+
+## 
+
+Which of these are sandwiches? Why or why not? (5 min)
+
+![](images/sandwiches.png){width="85%\"" fig-align="center"}
+
+## 
+
+In your groups, compare definitions. Why were some items and not others circled? See if you can come up with a definition that everyone in the group can agree with.
+
+## 
+
+If you have time, compare your group's definition with another groups.

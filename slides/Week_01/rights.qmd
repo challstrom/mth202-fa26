@@ -1,0 +1,29 @@
+---
+format: 
+  revealjs
+auto-stretch: false
+---
+
+## Rights of Learners
+
+As a student in this class, you have the right...
+
+::: {.callout}
+[to be confused.]{style="color:red"}
+:::
+
+::: {.callout}
+[to say what makes sense to you.]{style="color:blue"}
+:::
+
+::: {.callout}
+[to make mistakes.]{style="color:green"}
+:::
+
+::: {.callout}
+[to share unfinished thinking and not be judged.]{style="color:purple"}
+:::
+
+::: {.callout}
+[to revise your thinking.]{style="color:orange"}
+:::
