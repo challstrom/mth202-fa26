@@ -33,15 +33,10 @@ website:
         text: University Policies
       - section: "Slides"
         contents:
-          - href: slides/masyu.qmd
-            text: "Masyu Instructions"
+          - href: slides/Week_01/01-introductions.qmd
+            text: "Introductions"
             target: _blank
-          - href: slides/post_fallbreak.qmd
-            text: "Post Fall Break Reminders"
-            target: _blank
-          - href: slides/rights.qmd
-            text: "Rights of Learners"
-            target: _blank
+          
 format:
   html:
     theme: [litera, mth202.scss]

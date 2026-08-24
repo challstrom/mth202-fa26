@@ -6,13 +6,11 @@ format:
     toc: false
     number-sections: false
     title-block-style: default 
-
 ---
 
-::: {.center}
+::: center
 # Welcome!
 :::
-
 
 This is the course website for my two sections of Calculus II in Fall 2026. Here you can find information about course content, class policies, and resources to support your learning. This is meant to be a relatively static site, meaning it won't be updated regularly during the semester. For day-to-day information about class activities or assignments, please check our [class Canvas page](https://portland.instructure.com/courses/2792).
 
