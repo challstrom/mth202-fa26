@@ -33,9 +33,15 @@ website:
         text: University Policies
       - section: "Slides"
         contents:
-          - href: slides/Week_01/01-introductions.qmd
-            text: "Introductions"
-            target: _blank
+          - section: "Week 1"
+            contents:
+              - href: slides/01/01-introductions.qmd
+                text: "Introductions"
+                target: _blank
+              - href: slides/rights.qmd
+                text: "Rights of Learners"
+                target: _blank  
+
           
 format:
   html:
