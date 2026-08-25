@@ -132,7 +132,10 @@
     "href": "grades.html#collaborative-grading",
     "title": "Grades",
     "section": "Collaborative Grading",
-    "text": "Collaborative Grading\nAt mid-semester and again at the end of the semester, we will compare notes about where you are in your learning. I’ll ask you to present evidence of your learning and in this way, we will determine your your grade collaboratively.\nThe intention here is to help you focus on learning in a way that is more organic, as opposed to simply working as you think you’re expected to. If this process causes more anxiety than it alleviates, please see me at any point to confer about your progress in the course – I’m always happy to talk with you about your learning!"
+    "text": "Collaborative Grading\nAt mid-semester and again at the end of the semester, we will compare notes about where you are in your learning. I’ll ask you to present evidence of your learning and in this way, we will determine your your grade collaboratively.\nThe intention here is to help you focus on learning in a way that is more organic, as opposed to simply working as you think you’re expected to. If this process causes more anxiety than it alleviates, please see me at any point to confer about your progress in the course – I’m always happy to talk with you about your learning!",
+    "crumbs": [
+      "Grades"
+    ]
   },
   {
     "objectID": "UPElements.html#academic-integrity",
@@ -341,7 +344,10 @@
     "href": "grades.html",
     "title": "Grades",
     "section": "",
-    "text": "Extrinsic motivation, which includes a desire to get better grades, is not only different from, but often undermines, intrinsic motivation, a desire to learn for its own sake.\n\n– Alfie Kohn, “The Case Against Grades”\nGrades, as they are traditionally thought of, are inherently imprecise and don’t represent a full picture of your growth and learning over the course of a semester. Worse than that, research shows that grades undermine the learning process in several key ways:\nAlthough I am required to submit a grade for each student at the end of the semester, my goal is to de-emphasize the role of grades in this course so that as much as possible our focus is on learning.\nFor this reason, we will focus on qualitative rather than quantitative feedback (i.e. points) to assess your progress in this course. Your understanding of the course material, as assessed in terms of demonstrating proficiency on the stated learning targets, is ultimately what matters.\nYour goal should be to demonstrate proficiency on as many of the learning targets as you can by the end of the semester. I will keep track (and I encourage you to keep track as well) every time you demonstrate proficient level work. The course level learning goals will be assessed primarily through homework reports, AEPs, and other reflective assignments. The other, content focused, learning targets primarily through the in-class weekly check-ins."
+    "text": "Extrinsic motivation, which includes a desire to get better grades, is not only different from, but often undermines, intrinsic motivation, a desire to learn for its own sake.\n\n– Alfie Kohn, “The Case Against Grades”\nGrades, as they are traditionally thought of, are inherently imprecise and don’t represent a full picture of your growth and learning over the course of a semester. Worse than that, research shows that grades undermine the learning process in several key ways:\nAlthough I am required to submit a grade for each student at the end of the semester, my goal is to de-emphasize the role of grades in this course so that as much as possible our focus is on learning.\nFor this reason, we will focus on qualitative rather than quantitative feedback (i.e. points) to assess your progress in this course. Your understanding of the course material, as assessed in terms of demonstrating proficiency on the stated learning targets, is ultimately what matters.\nYour goal should be to demonstrate proficiency on as many of the learning targets as you can by the end of the semester. I will keep track (and I encourage you to keep track as well) every time you demonstrate proficient level work. The course level learning goals will be assessed primarily through homework reports, AEPs, and other reflective assignments. The other, content focused, learning targets primarily through the in-class weekly check-ins.",
+    "crumbs": [
+      "Grades"
+    ]
   },
   {
     "objectID": "structure.html",
@@ -716,50 +722,85 @@
     "objectID": "slides/01/01-introductions.html#welcome",
     "href": "slides/01/01-introductions.html#welcome",
     "title": "Calculus II",
-    "section": "",
-    "text": "Section A\n\nMWThF 8:10 - 9:05, DB 233\n\n\n\nSection B\n\nMWF 11:25-12:20, DB 136\nTh 11:20-12:15, DB 230  (note different room!)"
+    "section": "Welcome!",
+    "text": "Welcome!\n\n\n\nSection A\n\nMWThF 8:10 - 9:05, DB 233\n\n\n\nSection B\n\nMWF 11:25-12:20, DB 136\nTh 11:20-12:15, DB 230  (note different room!)",
+    "crumbs": [
+      "Slides",
+      "Week 1",
+      "Introductions"
+    ]
   },
   {
     "objectID": "slides/01/01-introductions.html#your-professor",
     "href": "slides/01/01-introductions.html#your-professor",
     "title": "Calculus II",
     "section": "Your professor",
-    "text": "Your professor\n\n\nChris Hallstrom, PhD ( he / him)\n\nhallstro@up.edu\nBuckley Center 270\nDrop-in hours\n\nMW 9:30-10:30\nTR 1-2:30\n\ncalendly.com/hallstro\nstop by anytime!\n\n\n\n\n\n\n\n\nI’m originally from Salem, Oregon\n3 kids (ages 17-21)\nI play basketball & make wine"
+    "text": "Your professor\n\n\nChris Hallstrom, PhD ( he / him)\n\nhallstro@up.edu\nBuckley Center 270\nDrop-in hours\n\nMW 9:30-10:30\nTR 1-2:30\n\ncalendly.com/hallstro\nstop by anytime!\n\n\n\n\n\n\n\n\nI’m originally from Salem, Oregon\n3 kids (ages 17-21)\nI play basketball & make wine",
+    "crumbs": [
+      "Slides",
+      "Week 1",
+      "Introductions"
+    ]
   },
   {
     "objectID": "slides/01/01-introductions.html#section",
     "href": "slides/01/01-introductions.html#section",
     "title": "Calculus II",
     "section": "",
-    "text": "Something about the class I’m nervous about…\n\nCanvas – I’m not really sure how that’s going to go!\n\nSomething I’m looking forward to…\n\nGetting to know all of you!\n\nSomething I liked about math classes…\n\nFinding different ways to approach a problem\n\nSomething I didn’t like…\n\nFeeling like I was expected to know something (but didn’t)"
+    "text": "Something about the class I’m nervous about…\n\nCanvas – I’m not really sure how that’s going to go!\n\nSomething I’m looking forward to…\n\nGetting to know all of you!\n\nSomething I liked about math classes…\n\nFinding different ways to approach a problem\n\nSomething I didn’t like…\n\nFeeling like I was expected to know something (but didn’t)",
+    "crumbs": [
+      "Slides",
+      "Week 1",
+      "Introductions"
+    ]
   },
   {
     "objectID": "slides/01/01-introductions.html#in-groups-of-3-4",
     "href": "slides/01/01-introductions.html#in-groups-of-3-4",
     "title": "Calculus II",
     "section": "In groups of 3-4…",
-    "text": "In groups of 3-4…\n\nWhat do you like to be called?\nWhere do you consider home?\nWhat is something you like doing in your free time?\nFind one uncommon thing that you all have in common.\n\n\nBe prepared to introduce someone else from your group to the class.\nChoose a Representative who will share your group’s uncommon commonality with the class"
+    "text": "In groups of 3-4…\n\nWhat do you like to be called?\nWhere do you consider home?\nWhat is something you like doing in your free time?\nFind one uncommon thing that you all have in common.\n\n\nBe prepared to introduce someone else from your group to the class.\nChoose a Representative who will share your group’s uncommon commonality with the class",
+    "crumbs": [
+      "Slides",
+      "Week 1",
+      "Introductions"
+    ]
   },
   {
     "objectID": "slides/01/01-introductions.html#section-1",
     "href": "slides/01/01-introductions.html#section-1",
     "title": "Calculus II",
     "section": "",
-    "text": "Which of these are sandwiches? Why or why not? (5 min)"
+    "text": "Which of these are sandwiches? Why or why not? (5 min)",
+    "crumbs": [
+      "Slides",
+      "Week 1",
+      "Introductions"
+    ]
   },
   {
     "objectID": "slides/01/01-introductions.html#section-2",
     "href": "slides/01/01-introductions.html#section-2",
     "title": "Calculus II",
     "section": "",
-    "text": "In your groups, compare definitions. Why were some items and not others circled? See if you can come up with a definition that everyone in the group can agree with."
+    "text": "In your groups, compare definitions. Why were some items and not others circled? See if you can come up with a definition that everyone in the group can agree with.",
+    "crumbs": [
+      "Slides",
+      "Week 1",
+      "Introductions"
+    ]
   },
   {
     "objectID": "slides/01/01-introductions.html#section-3",
     "href": "slides/01/01-introductions.html#section-3",
     "title": "Calculus II",
     "section": "",
-    "text": "If you have time, compare your group’s definition with another groups."
+    "text": "If you have time, compare your group’s definition with another groups.",
+    "crumbs": [
+      "Slides",
+      "Week 1",
+      "Introductions"
+    ]
   },
   {
     "objectID": "slides/01/01-schedule.html",
