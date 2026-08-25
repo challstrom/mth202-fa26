@@ -8,14 +8,12 @@ website:
   page-navigation: true
 
   navbar:
-    background: "#723EC3"
     search: true
 
   sidebar:
     title: false
     pinned: true
     align: left
-    background: secondary
 
     style: docked
     search: false
