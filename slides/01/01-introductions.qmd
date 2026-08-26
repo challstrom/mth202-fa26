@@ -12,8 +12,8 @@ format: revealjs
 
 ## Welcome!
 
-::: columns
-::: {.column width="60%"}
+::::::: columns
+::::: {.column width="60%"}
 ::: pinkbox
 Section A
 
@@ -26,16 +26,16 @@ Section B
 -   MWF 11:25-12:20, DB 136\
     Th 11:20-12:15, DB 230  (note different room!)
 :::
-:::
+:::::
 
 ::: {.column width="40%"}
 ![](../images/dancing_penguins.png){width="95%" fig-align="center"}
 :::
-:::
+:::::::
 
 ## Your professor
 
-::: columns
+:::::: columns
 ::: {.column width="60%"}
 Chris Hallstrom, PhD <br>( he / him)
 
@@ -48,7 +48,7 @@ Chris Hallstrom, PhD <br>( he / him)
 -   stop by anytime!
 :::
 
-::: {.column width="40%"}
+:::: {.column width="40%"}
 ![](../images/cch_raingear.png){width="75%" fig-alt="Headshot of Chris Hallstrom" fig-align="left"}
 
 ::: small
@@ -58,8 +58,8 @@ I'm originally from Salem, Oregon
 
 I play basketball & make wine
 :::
-:::
-:::
+::::
+::::::
 
 ## 
 

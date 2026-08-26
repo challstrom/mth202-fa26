@@ -927,5 +927,68 @@
     "title": "Calculus II <br>MTH202 :: Fall 2026",
     "section": "",
     "text": "As a student in this class, you have the right…\n\n\n\n\n\n\nto be confused.\n\n\n\n\n\n\n\n\n\nto say what makes sense to you.\n\n\n\n\n\n\n\n\n\nto make mistakes.\n\n\n\n\n\n\n\n\n\nto share unfinished thinking and not be judged.\n\n\n\n\n\n\n\n\n\nto revise your thinking."
+  },
+  {
+    "objectID": "slides/01/01-Wednesday.html#webwork",
+    "href": "slides/01/01-Wednesday.html#webwork",
+    "title": "Calculus II",
+    "section": "WeBWorK",
+    "text": "WeBWorK\n\nwebwork.up.edu/webwork2/MTH112C-F26/\nLogin with you UP username as both login and password (then reset your password)\nFocus on hard problems\nAlthough WeBWorK keeps track of points, I do not. I’m only tracking if you do it or not"
+  },
+  {
+    "objectID": "slides/01/01-Wednesday.html#getting-help",
+    "href": "slides/01/01-Wednesday.html#getting-help",
+    "title": "Calculus II",
+    "section": "Getting Help",
+    "text": "Getting Help\n\nAsk classmates!\nVisit my drop-in hours\n\nMW 9:30-10:30\nTTh 1-2:30\n\nschedule a visit calendly.com/hallstro\nsend me an email\ncourse videos"
+  },
+  {
+    "objectID": "slides/01/01-Wednesday.html#math-resource-center-mrc",
+    "href": "slides/01/01-Wednesday.html#math-resource-center-mrc",
+    "title": "Calculus II",
+    "section": "Math Resource Center (MRC)",
+    "text": "Math Resource Center (MRC)\nLocated in the Learning Commons (BC 163)\n\nDrop-in tutor hours\n\n3-7pm Mon-Thurs\n\nBy appointment: sign up at MRC home page ww1.up.edu/learningcommons/tutoring-services/math-resource-center/"
+  },
+  {
+    "objectID": "slides/01/01-Wednesday.html#what-about-using-ai",
+    "href": "slides/01/01-Wednesday.html#what-about-using-ai",
+    "title": "Calculus II",
+    "section": "What about using “AI”?",
+    "text": "What about using “AI”?\n\nWhy did I put “AI” in quotes?\nWhat do y’all think about appropriate use of AI in this class?\nCourse Policy"
+  },
+  {
+    "objectID": "slides/01/01-Wednesday.html#section",
+    "href": "slides/01/01-Wednesday.html#section",
+    "title": "Calculus II",
+    "section": "",
+    "text": "1.1.2 Using Graphs to Represent Relationships\na graph is plot of ordered pairs \\((t, V)\\) on coordinate axes"
+  },
+  {
+    "objectID": "slides/01/01-Wednesday.html#section-1",
+    "href": "slides/01/01-Wednesday.html#section-1",
+    "title": "Calculus II",
+    "section": "",
+    "text": "Can also (sometimes) use variables\nVolume of box with length \\(l\\), width \\(w\\), height \\(h\\) \\[ V = l\\cdot w \\cdot h\\]\nIn our example, we’re actually interested in the box of water (not the entire aquarium). Since \\(h\\) is changing, we leave that as a variable: \\[ V = 4 \\cdot 2 \\cdot h = 8h\\]"
+  },
+  {
+    "objectID": "slides/01/01-Wednesday.html#section-2",
+    "href": "slides/01/01-Wednesday.html#section-2",
+    "title": "Calculus II",
+    "section": "",
+    "text": "Changing perspective\nWhat if we were interested in how how the water depth is changing as we fill the tank? Start with previous relationship \\[ V = 8h \\] and rewrite to express \\(h\\) in terms of \\(V\\):\n\\[ \\frac{1}{8} V = \\frac{1}{8} 8h = \\left ( \\frac{8}{8} \\right ) h = h\\] \\[ h = \\frac{1}{8} V\\]"
+  },
+  {
+    "objectID": "slides/01/01-Wednesday.html#mth-202-wednesday-aug.-26",
+    "href": "slides/01/01-Wednesday.html#mth-202-wednesday-aug.-26",
+    "title": "Calculus II <br>MTH202 :: Fall 2026",
+    "section": "MTH 202 – Wednesday, Aug. 26",
+    "text": "MTH 202 – Wednesday, Aug. 26"
+  },
+  {
+    "objectID": "slides/01/01-Wednesday.html#mth-202-wed-aug.-26",
+    "href": "slides/01/01-Wednesday.html#mth-202-wed-aug.-26",
+    "title": "Calculus II",
+    "section": "MTH 202 – Wed, Aug. 26",
+    "text": "MTH 202 – Wed, Aug. 26\n\nToday: brief Calc I review\nFor Thursday: Preview Activity 5.3.1 bring to class\nFor Friday: Weekly Engagement Report submit on Canvas"
   }
 ]

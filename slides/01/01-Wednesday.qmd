@@ -1,0 +1,50 @@
+---
+title: "Calculus II"
+subtitle: "MTH202, Fall 2026"
+
+auto-stretch: false
+title-slide-attributes:
+  data-background-size: contain
+  data-background-opacity: "0.3"
+format: revealjs
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## MTH 202 -- Wed, Aug. 26
+
+-   Today: brief Calc I review
+-   For Thursday:  Preview Activity 5.3.1 bring to class
+-   For Friday:  Weekly Engagement Report submit on Canvas 
+
+
+## Getting Help
+
+-   Ask classmates!
+-   Visit my drop-in hours
+    -   MW 9:30-10:30
+    -   TTh 1-2:30
+-   schedule a visit
+    [calendly.com/hallstro](https://calendly.com/hallstro)
+-   send me an email
+-   course videos
+
+## Math Resource Center (MRC)
+
+Located in the Learning Commons (BC 163)
+
+-   Drop-in tutor hours
+    -   3-7pm Mon-Thurs
+-   By appointment: sign up at MRC home page
+    [ww1.up.edu/learningcommons/tutoring-services/math-resource-center/](https://ww1.up.edu/learningcommons/tutoring-services/math-resource-center/)
+
+## What about using "AI"?
+
+-   Why did I put "AI" in quotes?
+
+-   What do y'all think about appropriate use of AI in this class?
+
+-   [Course
+    Policy](https://portland.instructure.com/courses/2792/pages/ai-policy){target="_blank"}
+
