@@ -8,7 +8,7 @@ format:
     colorlinks: true
 ---
 
-:::::: columns
+::: columns
 ::: {.column width="45%"}
 So I'm not an expert in how humans learn, but I have been teaching mathematics for more than 25 years so I have some ideas. In my experience (and there is research to back this up) we learn best when we are **actively** engaged with the process. We need to make mistakes, guesses, conjectures. We need to struggle a bit to make sense of what we're doing. This is the realm of what some educators call *productive discomfort*.
 
@@ -25,7 +25,7 @@ My job is to guide you through that journey - to challenge you just enough that 
 ::: {.column width="50%"}
 ![](./images/sousanis.jpg)
 :::
-::::::
+:::
 
 The AI policy in this class is don't use it.
 
@@ -39,7 +39,7 @@ Here are a few reasons behind my thinking...
 
 -   Now it's true that all the material in this class has been written down in hundreds (thousands?) of textbooks, which have all been used to train these LLMs (without their author's permission). This means that if you're asking an AI tool about a calculus problem or concept, it most likely will give you correct information. But maybe not, which means you need to still need to check it yourself.
 
--   What about using AI tools to help explain a concept or technique that you find confusing? Here's the problem I see with this – the mental struggle of trying to make sense of a new, hard thing is **precisely the point**\*\*. If you off-load that, you aren't really engaging with the material in a way that is going to lead to authentic learning. There is reason that my classes don't have much lecturing in them – that's not a great way to learn. Many students think
+-   What about using AI tools to help explain a concept or technique that you find confusing? Here's the problem I see with this -- the mental struggle of trying to make sense of a new, hard thing is **precisely the point**\*\*. If you off-load that, you aren't really engaging with the material in a way that is going to lead to authentic learning. There is reason that my classes don't have much lecturing in them -- that's not a great way to learn. Many students think
 
 -   
 
