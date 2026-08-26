@@ -37,9 +37,11 @@ website:
         contents:
           - section: "Week 1"
             contents:
-              - href: slides/01/01-introductions.qmd
+              - href: slides/01/01-introductions.html
                 text: "Introductions"
                 target: _blank
+              - href: slides/01/01-Wednesday.html
+                text: "Wednesday, Aug. 26"
               - href: slides/rights.qmd
                 text: "Rights of Learners"
                 target: _blank  

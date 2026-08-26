@@ -212,7 +212,10 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "Welcome!\n\nThis is the course website for my two sections of Calculus II in Fall 2026. Here you can find information about course content, class policies, and resources to support your learning. This is meant to be a relatively static site, meaning it won’t be updated regularly during the semester. For day-to-day information about class activities or assignments, please check our class Canvas page.\nI am looking forward to working with each of you this semester and it is my top priority to support your growth as a learner and to make our time together, both in class and out, productive and engaging. My goal is to create a learning environment where you feel comfortable participating in class as well as coming to me with any questions or concerns that arise, mathematical and otherwise.\nWhile I’ll do everything in my power to support you, your success in this course ultimately depends on you. I ask you to bring a readiness to work and a belief that you can learn. I absolutely believe this about each of you. I will ask you to do tasks that are just at the edge of what you can handle because that is how the best learning happens, but if you are prepared to invest your time and energy, and to communicate with me about how you’re doing, I can and will support you.\nWe will strive in this class to create an environment that values our different perspectives and celebrates the contributions of every person. I promise to be respectful of you and your ideas. No matter your background, you are welcome in this classroom. You belong here!"
+    "text": "Welcome!\n\nThis is the course website for my two sections of Calculus II in Fall 2026. Here you can find information about course content, class policies, and resources to support your learning. This is meant to be a relatively static site, meaning it won’t be updated regularly during the semester. For day-to-day information about class activities or assignments, please check our class Canvas page.\nI am looking forward to working with each of you this semester and it is my top priority to support your growth as a learner and to make our time together, both in class and out, productive and engaging. My goal is to create a learning environment where you feel comfortable participating in class as well as coming to me with any questions or concerns that arise, mathematical and otherwise.\nWhile I’ll do everything in my power to support you, your success in this course ultimately depends on you. I ask you to bring a readiness to work and a belief that you can learn. I absolutely believe this about each of you. I will ask you to do tasks that are just at the edge of what you can handle because that is how the best learning happens, but if you are prepared to invest your time and energy, and to communicate with me about how you’re doing, I can and will support you.\nWe will strive in this class to create an environment that values our different perspectives and celebrates the contributions of every person. I promise to be respectful of you and your ideas. No matter your background, you are welcome in this classroom. You belong here!",
+    "crumbs": [
+      "Welcome"
+    ]
   },
   {
     "objectID": "references.html",
@@ -505,8 +508,13 @@
     "objectID": "slides/rights.html#rights-of-learners",
     "href": "slides/rights.html#rights-of-learners",
     "title": "Calculus II <br>MTH202 :: Fall 2026",
-    "section": "",
-    "text": "As a student in this class, you have the right…\n\n\n\n\n\n\nto be confused.\n\n\n\n\n\n\n\n\n\nto say what makes sense to you.\n\n\n\n\n\n\n\n\n\nto make mistakes.\n\n\n\n\n\n\n\n\n\nto share unfinished thinking and not be judged.\n\n\n\n\n\n\n\n\n\nto revise your thinking."
+    "section": "Rights of Learners",
+    "text": "Rights of Learners\nAs a student in this class, you have the right…\n\n\n\nto be confused.\n\n\n\n\n\n\nto say what makes sense to you.\n\n\n\n\n\n\nto make mistakes.\n\n\n\n\n\n\nto share unfinished thinking and not be judged.\n\n\n\n\n\n\nto revise your thinking.",
+    "crumbs": [
+      "Slides",
+      "Week 1",
+      "Rights of Learners"
+    ]
   },
   {
     "objectID": "general.html#class-schedule",
@@ -722,8 +730,8 @@
     "objectID": "slides/01/01-introductions.html#welcome",
     "href": "slides/01/01-introductions.html#welcome",
     "title": "Calculus II",
-    "section": "Welcome!",
-    "text": "Welcome!\n\n\n\nSection A\n\nMWThF 8:10 - 9:05, DB 233\n\n\n\nSection B\n\nMWF 11:25-12:20, DB 136\nTh 11:20-12:15, DB 230  (note different room!)",
+    "section": "",
+    "text": "Section A\n\nMWThF 8:10 - 9:05, DB 233\n\n\n\nSection B\n\nMWF 11:25-12:20, DB 136\nTh 11:20-12:15, DB 230  (note different room!)",
     "crumbs": [
       "Slides",
       "Week 1",
@@ -905,7 +913,12 @@
     "href": "slides/01/01-introductions.html",
     "title": "Calculus II",
     "section": "",
-    "text": "Section A\n\nMWThF 8:10 - 9:05, DB 233\n\n\n\nSection B\n\nMWF 11:25-12:20, DB 136\nTh 11:20-12:15, DB 230  (note different room!)"
+    "text": "Section A\n\nMWThF 8:10 - 9:05, DB 233\n\n\n\nSection B\n\nMWF 11:25-12:20, DB 136\nTh 11:20-12:15, DB 230  (note different room!)",
+    "crumbs": [
+      "Slides",
+      "Week 1",
+      "Introductions"
+    ]
   },
   {
     "objectID": "slides/01/rights.html",
@@ -940,21 +953,36 @@
     "href": "slides/01/01-Wednesday.html#getting-help",
     "title": "Calculus II",
     "section": "Getting Help",
-    "text": "Getting Help\n\nAsk classmates!\nVisit my drop-in hours\n\nMW 9:30-10:30\nTTh 1-2:30\n\nschedule a visit calendly.com/hallstro\nsend me an email\ncourse videos"
+    "text": "Getting Help\n\nAsk classmates!\nVisit my drop-in hours\n\nMW 9:30-10:30\nTTh 1-2:30\n\nschedule a visit calendly.com/hallstro\nsend me an email\ncourse videos",
+    "crumbs": [
+      "Slides",
+      "Week 1",
+      "Wednesday, Aug. 26"
+    ]
   },
   {
     "objectID": "slides/01/01-Wednesday.html#math-resource-center-mrc",
     "href": "slides/01/01-Wednesday.html#math-resource-center-mrc",
     "title": "Calculus II",
     "section": "Math Resource Center (MRC)",
-    "text": "Math Resource Center (MRC)\nLocated in the Learning Commons (BC 163)\n\nDrop-in tutor hours\n\n3-7pm Mon-Thurs\n\nBy appointment: sign up at MRC home page ww1.up.edu/learningcommons/tutoring-services/math-resource-center/"
+    "text": "Math Resource Center (MRC)\nLocated in the Learning Commons (BC 163)\n\nDrop-in tutor hours\n\n3-7pm Mon-Thurs\n\nBy appointment: sign up at MRC home page ww1.up.edu/learningcommons/tutoring-services/math-resource-center/",
+    "crumbs": [
+      "Slides",
+      "Week 1",
+      "Wednesday, Aug. 26"
+    ]
   },
   {
     "objectID": "slides/01/01-Wednesday.html#what-about-using-ai",
     "href": "slides/01/01-Wednesday.html#what-about-using-ai",
     "title": "Calculus II",
     "section": "What about using “AI”?",
-    "text": "What about using “AI”?\n\nWhy did I put “AI” in quotes?\nWhat do y’all think about appropriate use of AI in this class?\nCourse Policy"
+    "text": "What about using “AI”?\n\nWhy did I put “AI” in quotes?\nWhat do y’all think about appropriate use of AI in this class?\nCourse Policy",
+    "crumbs": [
+      "Slides",
+      "Week 1",
+      "Wednesday, Aug. 26"
+    ]
   },
   {
     "objectID": "slides/01/01-Wednesday.html#section",
@@ -989,6 +1017,11 @@
     "href": "slides/01/01-Wednesday.html#mth-202-wed-aug.-26",
     "title": "Calculus II",
     "section": "MTH 202 – Wed, Aug. 26",
-    "text": "MTH 202 – Wed, Aug. 26\n\nToday: brief Calc I review\nFor Thursday: Preview Activity 5.3.1 bring to class\nFor Friday: Weekly Engagement Report submit on Canvas"
+    "text": "MTH 202 – Wed, Aug. 26\n\nToday: brief Calc I review\nFor Thursday: Preview Activity 5.3.1 bring to class\nFor Friday: Weekly Engagement Report submit on Canvas",
+    "crumbs": [
+      "Slides",
+      "Week 1",
+      "Wednesday, Aug. 26"
+    ]
   }
 ]
