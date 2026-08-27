@@ -1,0 +1,47 @@
+---
+title: "Calculus II"
+subtitle: "MTH202, Fall 2026"
+
+auto-stretch: false
+title-slide-attributes:
+  data-background-size: contain
+  data-background-opacity: "0.3"
+format: revealjs
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## MTH 202 -- Friday, Aug. 28
+
+- Today: finish Section 5.3
+- Looking ahead to next week:
+  - WeBWork for u-substitution due Monday 7pm
+  - Preview Activity 5.4.1 for Monday
+  - Weekly written homework due Thursday
+  - First check-in on Thursday
+  - Friday: Weekly Engagement Report submit on Canvas
+
+## WeBWorK
+
+-   [webwork.up.edu/webwork2/MTH202-Hallstrom-F26/](https://webwork.up.edu/webwork2/MTH202-Hallstrom-F26/)
+-   login with your UP credentials. If that doesn't work, use your UP
+    username as both login and password (then reset your password)
+-   Although WeBWorK keeps track of points, I do not. I'm only tracking
+    if you do it or not.
+-   Focus on problems that feel productive
+
+
+## Preview Activities
+
+- going forward, you can either upload to Canvas, or just turn in during class instead.  Remember that I am not grading these for correctness -- just completion.
+
+## Written Homework
+
+- Due on Thursday - we will set aside some time at the beginning of class to discuss in groups.  
+
+## Weekly Check-In
+
+- This week will focus on material from 5.3 and 5.4
+    - Learning Target I1:  u-substitution
+    - Learning Target I2:  integration by parts

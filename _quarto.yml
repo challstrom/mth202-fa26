@@ -42,6 +42,10 @@ website:
                 target: _blank
               - href: slides/01/01-Wednesday.html
                 text: "Wednesday, Aug. 26"
+                target: _blank
+              - href: slides/01/01-Friday.html
+                text: "Friday, Aug. 28"
+                target: _blank
               - href: slides/rights.qmd
                 text: "Rights of Learners"
                 target: _blank  
