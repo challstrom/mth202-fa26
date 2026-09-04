@@ -740,5 +740,124 @@
     "crumbs": [
       "Class Structure"
     ]
+  },
+  {
+    "objectID": "slides/02/02-Friday.html#mth-202-friday-sept.-4",
+    "href": "slides/02/02-Friday.html#mth-202-friday-sept.-4",
+    "title": "Calculus II",
+    "section": "MTH 202 – Friday, Sept. 4",
+    "text": "MTH 202 – Friday, Sept. 4\nIntegration Techniques\n\nu-substitution\nintegration by parts\n???"
+  },
+  {
+    "objectID": "slides/02/02-Friday.html#from-preview-activity",
+    "href": "slides/02/02-Friday.html#from-preview-activity",
+    "title": "Calculus II",
+    "section": "From Preview Activity",
+    "text": "From Preview Activity\nExample 1 \\[\n\\int \\frac{2x+3}{1+x^2} \\, dx\n\\]"
+  },
+  {
+    "objectID": "slides/02/02-Friday.html#example-1",
+    "href": "slides/02/02-Friday.html#example-1",
+    "title": "Calculus II",
+    "section": "Example 1",
+    "text": "Example 1\n\\[\n\\int \\frac{2x+3}{1+x^2} \\, dx = \\int \\frac{2x}{1+x^2}  + \\frac{3}{1+x^2} \\, dx\n\\]\n\nu-substituion\narctan"
+  },
+  {
+    "objectID": "slides/02/02-Friday.html#example-2",
+    "href": "slides/02/02-Friday.html#example-2",
+    "title": "Calculus II",
+    "section": "Example 2",
+    "text": "Example 2\n\\[\n\\int x^5 \\sin(x^3) \\, dx\n\\]\nu-sub\n\\[u = x^3 \\qquad du = 3 x^2 dx \\]\n\\[\n\\int x^2 x^3 \\sin(x^3) \\, dx = \\int \\frac{1}{3} u \\sin(u) \\, du\n\\]\nintegrate by parts"
+  },
+  {
+    "objectID": "slides/02/02-Friday.html#example-1-rewrite-w-algebra",
+    "href": "slides/02/02-Friday.html#example-1-rewrite-w-algebra",
+    "title": "Calculus II",
+    "section": "Example 1 – rewrite w/ algebra",
+    "text": "Example 1 – rewrite w/ algebra\n\\[\\int \\frac{2x+3}{1+x^2} \\, dx = \\int \\frac{2x}{1+x^2}  + \\frac{3}{1+x^2} \\, dx\\]\n\nu-substituion\narctan",
+    "crumbs": [
+      "Slides",
+      "Week 2",
+      "Reassessments"
+    ]
+  },
+  {
+    "objectID": "slides/02/02-Friday.html#example-2-multiple-techniques",
+    "href": "slides/02/02-Friday.html#example-2-multiple-techniques",
+    "title": "Calculus II",
+    "section": "Example 2 – multiple techniques",
+    "text": "Example 2 – multiple techniques\n\\[\\int x^5 \\sin(x^3) \\, dx\\]\nu-sub\n\\[u = x^3 \\qquad du = 3 x^2 dx \\]\n\\[ \\int x^2 x^3 \\sin(x^3) \\, dx = \\int \\frac{1}{3} u \\sin(u) \\, du\\]\nintegrate by parts",
+    "crumbs": [
+      "Slides",
+      "Week 2",
+      "Reassessments"
+    ]
+  },
+  {
+    "objectID": "slides/02/02-Friday.html#example-3-not-yet",
+    "href": "slides/02/02-Friday.html#example-3-not-yet",
+    "title": "Calculus II",
+    "section": "Example 3 – not yet!",
+    "text": "Example 3 – not yet!\n\\[\\int \\frac{1}{\\sqrt{1-x^2}}\\, dx\\]",
+    "crumbs": [
+      "Slides",
+      "Week 2",
+      "Reassessments"
+    ]
+  },
+  {
+    "objectID": "slides/02/02-Friday.html#check-ins-and-reassessments",
+    "href": "slides/02/02-Friday.html#check-ins-and-reassessments",
+    "title": "Calculus II",
+    "section": "Check-ins and Reassessments",
+    "text": "Check-ins and Reassessments\nEach learning target:\n\nP Proficient: you have demonstrated understanding on this topic\nR Minor Revisions Needed: I can see evidence of understanding, but there are minor computational errors such that your solution is not quite correct.\nN Not Yet Proficient: there are larger gaps or errors such that I don’t see enough evidence of understanding",
+    "crumbs": [
+      "Slides",
+      "Week 2",
+      "Reassessments"
+    ]
+  },
+  {
+    "objectID": "slides/02/02-Friday.html#section",
+    "href": "slides/02/02-Friday.html#section",
+    "title": "Calculus II",
+    "section": "",
+    "text": "Write up a corrected solution on a new piece of paper and hand it in, along with previous solution and I will change this to proficient\nIntegration Techniques\n\nu-substitution\nintegration by parts\n???"
+  },
+  {
+    "objectID": "slides/02/02-Friday.html#minor-revsitions-needed",
+    "href": "slides/02/02-Friday.html#minor-revsitions-needed",
+    "title": "Calculus II",
+    "section": "Minor Revsitions Needed",
+    "text": "Minor Revsitions Needed\nWrite up a corrected solution on a new piece of paper and hand it in stapled on top of previous solution within one week and I will change this to proficient",
+    "crumbs": [
+      "Slides",
+      "Week 2",
+      "Reassessments"
+    ]
+  },
+  {
+    "objectID": "slides/02/02-Friday.html#not-yet-proficient",
+    "href": "slides/02/02-Friday.html#not-yet-proficient",
+    "title": "Calculus II",
+    "section": "Not Yet Proficient",
+    "text": "Not Yet Proficient\nTry again! You can do a re-assessment in several ways:\n\nin-class the following week (for new leaning targets)\nin-class mid-semester check-in\ndrop-in or scheduled time (use caldenly link)\n\nlet me know before hand what LT you plan on reassessing\nmust bring ticket: short write up of corrections or other evidence that you’ve done something to study / learn from prior attempt\nnot more than 2 attempts per week\none learning target at a time",
+    "crumbs": [
+      "Slides",
+      "Week 2",
+      "Reassessments"
+    ]
+  },
+  {
+    "objectID": "slides/02/02-Friday.html#integration-techniques",
+    "href": "slides/02/02-Friday.html#integration-techniques",
+    "title": "Calculus II",
+    "section": "Integration Techniques",
+    "text": "Integration Techniques\n\nu-substitution\nintegration by parts\n???",
+    "crumbs": [
+      "Slides",
+      "Week 2",
+      "Reassessments"
+    ]
   }
 ]

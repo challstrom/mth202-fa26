@@ -1,0 +1,75 @@
+---
+title: "Calculus II"
+subtitle: "MTH202, Fall 2026"
+
+auto-stretch: false
+title-slide-attributes:
+  data-background-size: contain
+  data-background-opacity: "0.3"
+format: revealjs
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Check-ins and Reassessments
+
+### Each learning target:
+
+- **P** Proficient: you have demonstrated understanding on this topic
+
+- **R** Minor Revisions Needed: I can see evidence of understanding, but
+  there are minor computational errors such that your solution is not
+  quite correct.
+
+- **N** Not Yet Proficient: there are larger gaps or errors such that I
+  don't see enough evidence of understanding
+
+## Minor Revsitions Needed
+
+Write up a corrected solution **on a new piece of paper** and hand it in
+stapled on top of previous solution within **one week** and I will
+change this to **proficient**
+
+## Not Yet Proficient
+
+Try again! You can do a re-assessment in several ways:
+
+- in-class the following week (for new leaning targets)
+- in-class mid-semester check-in
+- drop-in or scheduled time (use caldenly link)
+  - let me know before hand what LT you plan on reassessing
+  - must bring **ticket**: short write up of corrections or other
+    evidence that you've done something to study / learn from prior
+    attempt
+  - not more than 2 attempts per week
+  - one learning target at a time
+
+## Integration Techniques
+
+- u-substitution
+- integration by parts
+- ???
+
+## Example 1 -- rewrite w/ algebra
+
+$$\int \frac{2x+3}{1+x^2} \, dx = \int \frac{2x}{1+x^2}  + \frac{3}{1+x^2} \, dx$$
+
+- u-substituion
+- arctan
+
+## Example 2 -- multiple techniques
+
+$$\int x^5 \sin(x^3) \, dx$$
+
+u-sub
+
+$$u = x^3 \qquad du = 3 x^2 dx $$
+
+$$ \int x^2 x^3 \sin(x^3) \, dx = \int \frac{1}{3} u \sin(u) \, du$$
+
+integrate by parts
+
+## Example 3 -- not yet!
+
+$$\int \frac{1}{\sqrt{1-x^2}}\, dx$$

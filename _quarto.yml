@@ -49,7 +49,11 @@ website:
               - href: slides/rights.qmd
                 text: "Rights of Learners"
                 target: _blank  
-
+          - section: "Week 2"
+            contents:
+              - href: slides/02/02-Friday.html
+                text: "Reassessments"
+                target: _blank
           
 format:
   html:
