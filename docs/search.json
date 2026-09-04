@@ -774,7 +774,7 @@
     "href": "slides/02/02-Friday.html#example-1-rewrite-w-algebra",
     "title": "Calculus II",
     "section": "Example 1 – rewrite w/ algebra",
-    "text": "Example 1 – rewrite w/ algebra\n\\[\\int \\frac{2x+3}{1+x^2} \\, dx = \\int \\frac{2x}{1+x^2}  + \\frac{3}{1+x^2} \\, dx\\]\n\nu-substituion\narctan",
+    "text": "Example 1 – rewrite w/ algebra\n\\[\\int \\frac{2x+3}{1+x^2} \\, dx = \\int \\frac{2x}{1+x^2}  + \\frac{3}{1+x^2} \\, dx\\]\n\nu-substitution\narctan",
     "crumbs": [
       "Slides",
       "Week 2",
@@ -822,7 +822,12 @@
     "href": "slides/02/02-Friday.html#section",
     "title": "Calculus II",
     "section": "",
-    "text": "Write up a corrected solution on a new piece of paper and hand it in, along with previous solution and I will change this to proficient\nIntegration Techniques\n\nu-substitution\nintegration by parts\n???"
+    "text": "Reassessments outside of class\n\nlet me know before hand what LT you plan on reassessing\nmust bring ticket: short write up of corrections or other evidence that you’ve done something to study / learn from prior attempt\nnot more than 2 attempts per week\none learning target at a time",
+    "crumbs": [
+      "Slides",
+      "Week 2",
+      "Reassessments"
+    ]
   },
   {
     "objectID": "slides/02/02-Friday.html#minor-revsitions-needed",
@@ -841,7 +846,7 @@
     "href": "slides/02/02-Friday.html#not-yet-proficient",
     "title": "Calculus II",
     "section": "Not Yet Proficient",
-    "text": "Not Yet Proficient\nTry again! You can do a re-assessment in several ways:\n\nin-class the following week (for new leaning targets)\nin-class mid-semester check-in\ndrop-in or scheduled time (use caldenly link)\n\nlet me know before hand what LT you plan on reassessing\nmust bring ticket: short write up of corrections or other evidence that you’ve done something to study / learn from prior attempt\nnot more than 2 attempts per week\none learning target at a time",
+    "text": "Not Yet Proficient\nTry again! You can do a re-assessment in several ways:\nin-class\n\n\n\n\nthe following week (for new leaning targets only)\nmid-semester check-in\n\n\n\n\noutside of class\n\n\n\n\ndrop-in hours\nschedule a time (use caldenly link)",
     "crumbs": [
       "Slides",
       "Week 2",
@@ -853,7 +858,19 @@
     "href": "slides/02/02-Friday.html#integration-techniques",
     "title": "Calculus II",
     "section": "Integration Techniques",
-    "text": "Integration Techniques\n\nu-substitution\nintegration by parts\n???",
+    "text": "Integration Techniques\n\n\nso far\n\nCalc I antiderivatives\nu-substitution\nintegration by parts\n\n\nnew\n\nPartial Fractions\nTables\nComputer\nTrig Substitution",
+    "crumbs": [
+      "Slides",
+      "Week 2",
+      "Reassessments"
+    ]
+  },
+  {
+    "objectID": "slides/02/02-Friday.html#new",
+    "href": "slides/02/02-Friday.html#new",
+    "title": "Calculus II",
+    "section": "new",
+    "text": "new\n\nPartial Fractions\nTables\nComputer\nTrig Substitution",
     "crumbs": [
       "Slides",
       "Week 2",

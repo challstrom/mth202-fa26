@@ -33,12 +33,24 @@ change this to **proficient**
 
 ## Not Yet Proficient
 
-Try again! You can do a re-assessment in several ways:
+Try again! You can do a **re-assessment** in several ways:
 
-- in-class the following week (for new leaning targets)
-- in-class mid-semester check-in
-- drop-in or scheduled time (use caldenly link)
-  - let me know before hand what LT you plan on reassessing
+### in-class 
+::: {.callout}
+  - the following week (for new leaning targets only)
+  - mid-semester check-in
+:::
+
+### outside of class
+::: {.callout}  
+  - drop-in hours
+  - schedule a time (use caldenly link)
+:::
+
+##
+
+### Reassessments outside of class
+  - let me know **before hand** what LT you plan on reassessing
   - must bring **ticket**: short write up of corrections or other
     evidence that you've done something to study / learn from prior
     attempt
@@ -47,15 +59,29 @@ Try again! You can do a re-assessment in several ways:
 
 ## Integration Techniques
 
+::: {.columns}
+::: {.column width="50%"}
+
+### so far
+- Calc I antiderivatives
 - u-substitution
 - integration by parts
-- ???
+
+:::
+::: {.column width=50%}
+### new
+- Partial Fractions
+- Tables
+- Computer
+- Trig Substitution
+:::
+:::
 
 ## Example 1 -- rewrite w/ algebra
 
 $$\int \frac{2x+3}{1+x^2} \, dx = \int \frac{2x}{1+x^2}  + \frac{3}{1+x^2} \, dx$$
 
-- u-substituion
+- u-substitution
 - arctan
 
 ## Example 2 -- multiple techniques
