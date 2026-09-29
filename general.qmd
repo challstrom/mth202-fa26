@@ -20,7 +20,7 @@ This semester, I am teaching two sections of MTH 202. It's helpful, especially e
 
 ## Instructor
 
-::: columns
+:::::: columns
 ::: {.column width="65%"}
 Chris Hallstrom, PhD <br> (he/him)
 
@@ -38,7 +38,7 @@ Students sometimes ask how they should address me. While I won't be offended if 
 ::: {.column width="30%"}
 ![](images/cch_raingear.png)
 :::
-:::
+::::::
 
 ### Contact Information
 
@@ -92,7 +92,7 @@ In addition to work you turn in I strongly suggest, for the reasons articulated 
 These AI policies apply only to this course. For your other courses, please follow those professors' AI policies, which may differ from mine.
 :::
 
-::: columns
+:::::: columns
 ::: {.column width="45%"}
 Generative AI tools such as ChatGPT work by predicting what words will form coherent sentences in the context of the prompt you've given it, essentially ["autocomplete in overdrive"](https://thebullshitmachines.com/lesson-1-autocomplete-in-overdrive/index.html). This means that Gen AI tools are **designed** to produce output that **sounds convincing** without any regard to whether its output is **actually correct**. The technical term for this is [bullshit](https://thebullshitmachines.com/lesson-2-the-nature-of-bullshit/index.html)
 
@@ -109,7 +109,7 @@ Here's the thing -- those are all activities that are fundamental to the process
 ::: {.column width="50%"}
 ![](./images/sousanis.jpg)
 :::
-:::
+::::::
 
 Fundamentally, I believe that the use of AI tools in this class ultimately gets in the way of authentic learning.
 

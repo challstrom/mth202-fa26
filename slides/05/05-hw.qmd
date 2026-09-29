@@ -1,0 +1,40 @@
+---
+title: "Calculus II"
+subtitle: "MTH202, Fall 2026"
+
+auto-stretch: false
+title-slide-attributes:
+  data-background-size: contain
+  data-background-opacity: "0.3"
+format: revealjs
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Written Homework
+
+What am I looking for?
+
+-   Solutions are correct and complete (no gaps)
+-   Effective communication
+
+Remember: It's not enough to have the right answer.
+
+You need to convince someone else that your solution is correct!
+
+
+
+
+
+## Elements of Effective Communication
+
+-   State the problem.
+-   Write left to right, top to bottom.
+-   Make effective use of blank space (solution should not be crowded).
+-   Use words to explain your steps.  Write in complete sentences.
+-   State your conclusion.
+
+## 
+
+-   If you use technology, say so

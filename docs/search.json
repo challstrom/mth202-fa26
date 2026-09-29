@@ -876,5 +876,54 @@
       "Week 2",
       "Reassessments"
     ]
+  },
+  {
+    "objectID": "slides/03/03-trigsub.html#trig-substitution",
+    "href": "slides/03/03-trigsub.html#trig-substitution",
+    "title": "Calculus II",
+    "section": "Trig Substitution",
+    "text": "Trig Substitution\naka “Draw a Triangle”"
+  },
+  {
+    "objectID": "slides/03/03-trigsub.html#example",
+    "href": "slides/03/03-trigsub.html#example",
+    "title": "Calculus II",
+    "section": "Example",
+    "text": "Example\n\\[ \\int \\sqrt{25 - x^2} \\, dx\\] ### key idea: $"
+  },
+  {
+    "objectID": "slides/05/05-hw.html#written-homework",
+    "href": "slides/05/05-hw.html#written-homework",
+    "title": "Calculus II",
+    "section": "Written Homework",
+    "text": "Written Homework\nWhat am I looking for?\n\nSolutions are correct and complete (no gaps)\nEffective communication\n\nRemember: It’s not enough to have the right answer.\nYou need to convince someone else that your solution is correct!"
+  },
+  {
+    "objectID": "slides/05/05-hw.html#elements-of-effective-communication",
+    "href": "slides/05/05-hw.html#elements-of-effective-communication",
+    "title": "Calculus II",
+    "section": "Elements of Effective Communication",
+    "text": "Elements of Effective Communication\n\nState the problem.\nWrite left to right, top to bottom.\nMake effective use of blank space (solution should not be crowded).\nUse words to explain your steps. Write in complete sentences.\nState your conclusion."
+  },
+  {
+    "objectID": "slides/05/05-hw.html#section",
+    "href": "slides/05/05-hw.html#section",
+    "title": "Calculus II",
+    "section": "",
+    "text": "If you use technology, say so"
+  },
+  {
+    "objectID": "slides/05/05-hw.html#section-1",
+    "href": "slides/05/05-hw.html#section-1",
+    "title": "Calculus II",
+    "section": "",
+    "text": "Answer 2:\n\\[\\begin{gather*}\ny(y-2)=-(y-2)(y-3)\\\\\n2y^2 - 6y + 3 = 0 \\\\\ny = \\frac{3}{2} \\pm \\frac{1}{4}\\sqrt{ 12}\n\\end{gather*}\\]\n\\[\n\\int_{y_1}^{y_2} -(y-1)(y-3)-y(y-2) \\, dy = 1.732\n\\]"
+  },
+  {
+    "objectID": "slides/05/05-hw.html#section-2",
+    "href": "slides/05/05-hw.html#section-2",
+    "title": "Calculus II",
+    "section": "",
+    "text": "If you use technology, say so"
   }
 ]

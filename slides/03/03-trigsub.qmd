@@ -1,0 +1,22 @@
+---
+title: "Calculus II"
+subtitle: "MTH202, Fall 2026"
+
+auto-stretch: false
+title-slide-attributes:
+  data-background-size: contain
+  data-background-opacity: "0.3"
+format: revealjs
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Trig Substitution
+
+### aka "Draw a Triangle"
+
+
+## Example
+$$ \int \sqrt{25 - x^2} \, dx$$
+### key idea:  $\
